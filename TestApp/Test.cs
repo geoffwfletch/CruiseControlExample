@@ -24,5 +24,11 @@ namespace TestApp
         public void Test1()
         {
         }
+
+
+        [TestCase]
+        public void Test2()
+        {
+        }
     }
 }
