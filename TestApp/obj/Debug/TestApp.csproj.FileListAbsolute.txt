@@ -1,0 +1,9 @@
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\bin\Debug\TestApp.exe.config
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\bin\Debug\TestApp.exe
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\bin\Debug\TestApp.pdb
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\bin\Debug\nunit.framework.dll
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\bin\Debug\nunit.framework.pdb
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\bin\Debug\nunit.framework.xml
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\obj\Debug\TestApp.exe
+C:\Projects\Git\CruiseControlExample\CruiseControlExample\TestApp\obj\Debug\TestApp.pdb
