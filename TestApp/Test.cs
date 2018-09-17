@@ -25,10 +25,10 @@ namespace TestApp
         {
         }
 
-
         [TestCase]
         public void Test2()
         {
+            Assert.IsTrue(false);
         }
     }
 }
